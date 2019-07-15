@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+<item>
+    <shape>
+        <gradient android:startColor="#C06AD5" android:endColor="#E46E6E" android:angle="45"/>
+    </shape>
+</item>
+    <item  android:gravity="center">
+        <bitmap android:src="@mipmap/logoo" />
+    </item>
+
+</layer-list>
